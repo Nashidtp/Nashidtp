@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 🔧 Tools & Technologies
 
 📫 Let's Connect
+
 📧 Email: [nashidnaza33@gmail.com]
 💼 LinkedIn:[(https://www.linkedin.com/in/nashid-tp/)]
+
 Thanks for visiting! ⭐ Feel free to check out my repositories and drop a star if something inspires you!
