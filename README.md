@@ -11,7 +11,14 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 📊 Skilled in Data Cleaning, Visualization, and Storytelling
 🧠 Strong problem-solving mindset with a background in statistics and logic
 🗣️ Great communicator & team player
+
 🔧 Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 📫 Let's Connect
 
