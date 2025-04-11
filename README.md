@@ -5,6 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about turning data into actionable insights and solving real-world problems through analytical thinking. With a strong foundation in mathematics and hands-on experience in data analysis, I bring both logic and creativity to the table.
 
 🚀 About Me
+
 🎓 BSc Mathematics (Honours) Graduate | IBM-Certified Data Analyst
 💼 1-year internship experience in Data Analytics
 📊 Skilled in Data Cleaning, Visualization, and Storytelling
