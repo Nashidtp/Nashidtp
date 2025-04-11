@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 🗣️ Great communicator & team player
 
 🔧 Tools & Technologies
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
