@@ -1,4 +1,5 @@
 👋 Hi there, I'm Nashid TP!
+
 🎯 Aspiring Data Analyst | Excel • Python • SQL • Power BI • Tableau | Problem Solver | Sports Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about turning data into actionable insights and solving real-world problems through analytical thinking. With a strong foundation in mathematics and hands-on experience in data analysis, I bring both logic and creativity to the table.
