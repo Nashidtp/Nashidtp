@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 🧠 Strong problem-solving mindset with a background in statistics and logic
 🗣️ Great communicator & team player
 🔧 Tools & Technologies
-Python SQL Excel Power BI Tableau Git
 
 📫 Let's Connect
 📧 Email: [nashidnaza33@gmail.com]
