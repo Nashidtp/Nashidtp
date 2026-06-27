@@ -159,9 +159,9 @@ University of Calicut
 
 ## 📫 Let's Connect
 
-📧 Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+📧 Email: (nashidnaza33@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://linkedin.com/in/nashidtp
 
 📍 Bengaluru, India
 
