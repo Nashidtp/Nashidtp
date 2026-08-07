@@ -1,169 +1,66 @@
-# 👋 Hi, I'm Nashid TP
+# Hi, I'm Nashid TP 👋
 
-### 📊 Data Analyst | Excel | SQL | Power BI | Tableau | Python | Machine Learning
+### Data Analyst | Excel • SQL • Power BI • Tableau • Python
 
-Transforming raw data into meaningful business insights through **data analysis, visualization, dashboard development, and machine learning**. Passionate about solving real-world business problems using data-driven decision making.
+Data Analyst with hands-on internship experience turning raw data into business insight — data cleaning, KPI reporting, dashboard development, and exploratory analysis. I like taking messy datasets and building something a business can actually act on.
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 BSc Mathematics (Honours) Graduate
-* 🏅 IBM Certified Data Analyst
-* 💼 1-year internship experience in Data Analytics
-* 📊 Skilled in Excel, SQL, Power BI, Tableau & Python
-* 🤖 Knowledge of Machine Learning algorithms and predictive analytics
-* 🧹 Experienced in data cleaning, preprocessing and visualization
-* 📈 Passionate about building dashboards and business intelligence solutions
-* 💡 Strong analytical thinker, problem solver and team player
-* 🚀 Currently looking for **Data Analyst** opportunities
+📍 Bangalore, India | 📧 nashidnaza33@gmail.com | [LinkedIn](https://linkedin.com/in/nashidtp)
 
 ---
 
-## 🛠️ Core Skills
+## 🧭 About Me
 
-### 📊 Data Analysis & Visualization
-
-* Microsoft Excel
-* Power BI
-* Tableau
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
-
-### 🗄️ Database & Querying
-
-* SQL
-* MySQL
-
-### 🐍 Programming
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-
-### 🤖 Machine Learning
-
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Regression
-* Classification
-* Clustering
-* Model Evaluation
-
-### 🔧 Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
+- 🎓 B.Sc. Mathematics
+- 📊 Data Analyst — Excel, SQL, Power BI, Tableau, Python
+- 💼 Internship experience across sales, HR, and BI reporting projects
+- 🧹 Strong in data cleaning, EDA, and dashboard/KPI development
+- 🤖 Working knowledge of Python for data analysis (Pandas, NumPy) and ML fundamentals
+- 🚀 Currently exploring **MIS Executive / Data Analyst** roles
+- 🌱 Sharpening: Advanced SQL, DAX, and Tableau advanced visualizations
 
 ---
 
-## 🚀 What I Do
+## 🛠️ Skills
 
-📊 **Data Cleaning & Preparation**
-Transform messy datasets into analysis-ready data.
-
-📈 **Dashboard Development**
-Create interactive dashboards using Power BI, Tableau and Excel.
-
-🔍 **Exploratory Data Analysis (EDA)**
-Discover trends, patterns and actionable insights.
-
-📉 **Business Analytics**
-Analyze KPIs and support data-driven decision making.
-
-🤖 **Machine Learning**
-Build predictive models for classification, regression and business forecasting.
+**Spreadsheet & Reporting:** Excel (Pivot Tables, XLOOKUP, VLOOKUP, IF, Dashboards)
+**Visualization / BI:** Power BI, Tableau
+**Database:** SQL (Joins, Group By, Subqueries, Aggregations)
+**Programming:** Python (Pandas, NumPy, Matplotlib)
+**Analytics:** Data Cleaning, EDA, KPI Reporting, Business Intelligence
+**Other:** Prompt engineering / GenAI basics, Git & GitHub
 
 ---
 
 ## 📂 Featured Projects
 
-### 📈 HR Analytics Dashboard
+### 📊 E-Commerce Sales Analysis
+`SQL` `Python` `Power BI`
+Cleaned and transformed 10,000+ sales records and built 3 interactive dashboards (10+ visuals) tracking sales, revenue, profit, and order volume — improving reporting efficiency by 20%.
 
-**Tools:** Excel, Power BI
+### 🧑‍💼 HR Analytics Dashboard
+`Excel` `Power BI`
+Analyzed 1,000+ employee records to surface attrition trends; built 2 dashboards covering 8+ HR KPIs, cutting manual analysis time by 25%.
 
-* Employee Attrition Analysis
-* Department Performance
-* Interactive KPI Dashboard
+### 💰 Regional Sales Dashboard
+`Tableau`
+Built an interactive dashboard with 12+ visualizations across 4 regions and 15+ product categories, using calculated fields, filters, and parameters for self-service reporting — cutting report prep time by 30%.
 
----
-
-### 🛒 Global Superstore Dashboard
-
-**Tools:** SQL, Power BI
-
-* Sales Analysis
-* Profit Analysis
-* Customer Insights
-* Regional Performance
+*(Add repo links to each project above once uploaded — happy to help write project-specific READMEs too.)*
 
 ---
 
-### 💰 Sales Dashboard
+## 🎓 Education & Certifications
 
-**Tools:** Excel, Power BI
-
-* KPI Tracking
-* Revenue Analysis
-* Business Performance Dashboard
-
----
-
-### 🤖 Customer Churn Prediction
-
-**Tools:** Python, Scikit-learn
-
-* Data Preprocessing
-* Machine Learning Models
-* Customer Retention Analysis
-
----
-
-### 🗄️ SQL Projects
-
-* Joins
-* Window Functions
-* CTEs
-* Stored Procedures
-* Business Case Studies
-
----
-
-## 📜 Certifications
-
-* IBM Data Analyst Professional Certificate
-* ExcelR Data Analytics Certification
-
----
-
-## 🎓 Education
-
-**BSc Mathematics (Honours)**
-University of Calicut
-
----
-
-## 🌱 Currently Learning
-
-* Advanced SQL
-* DAX in Power BI
-* Tableau Advanced Visualizations
-* Machine Learning Algorithms
-* Statistical Analysis
+- B.Sc. Mathematics (2020–2023)
+- Data Analytics Course — ExcelR Solutions (2023)
+- Data Science Course — Edure Learning (2024–2025)
+- Data Science Internship — Edure Learning (2025)
+- Data Visualization — IBM Developer Skills Network
 
 ---
 
 ## 📫 Let's Connect
 
-📧 Email: (nashidnaza33@gmail.com)
+I'm open to Data Analyst and MIS Executive opportunities — feel free to reach out.
 
-💼 LinkedIn: https://linkedin.com/in/nashidtp
-
-📍 Bengaluru, India
-
-**Open to Data Analyst Opportunities**
-
+📧 nashidnaza33@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/nashidtp)
